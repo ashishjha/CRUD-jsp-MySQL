@@ -1,5 +1,5 @@
 # User Management Web App
-## A web app made with JSP and Servlet to perform CRUD actions.
+## A web app made with JSP and Servlet to perform CRUD operations.
 
 ![screenShot1](./assets/p3.PNG)
 
